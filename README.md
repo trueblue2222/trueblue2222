@@ -12,7 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-그냥 아무 파일 올리는 곳
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trueblue2222&layout=compact)
